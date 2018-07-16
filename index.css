@@ -1,0 +1,70 @@
+body {background-color:lightblue;}
+
+h2 {
+    margin: auto;
+    text-align: center;
+    padding-top: 40px;
+}
+
+p{
+    margin: auto;
+    text-align: center;
+    font-style: italic;
+
+}
+.container{
+    margin:auto;
+    width: 400px;
+    height: 50%;
+    padding-bottom: 30px;
+}
+.center {
+    margin: auto;
+    background-color:white;
+    text-align: center;
+
+    
+}
+
+#name{
+    background-color: transparent;
+    border: 0px solid;
+    height: 30px;
+    width: 190px;
+    color: #CCC;
+    outline: 0;
+    border-bottom: 1px solid grey;
+    font-size: 12pt;
+}
+#pass{
+    background-color: transparent;
+    border: 0px solid;
+    height: 30px;
+    width: 155px;
+    color: #CCC;
+    border-bottom: 1px solid grey;
+    font-size: 12pt;
+    
+}
+
+#signin{
+    margin:auto;
+    height: 30px;
+    width: 200px;
+    background-color:aqua;
+    color:white;
+    
+}
+
+.account{
+    margin:auto;
+    color:grey;
+    font-size:11px;
+    text-align: center;
+}
+
+.forgot{
+    position: relative;
+    font-size: 10px;
+    
+}
